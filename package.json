@@ -1,0 +1,15 @@
+{
+  "name": "test-node-1",
+  "version": "0.1.0",
+ "type":"module",
+  "description": "My first Automation test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nat",
+  "license": "ISC",
+  "dependencies": {
+    "chalk":"5.4.1"
+  }
+}
