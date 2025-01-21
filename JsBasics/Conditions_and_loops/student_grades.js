@@ -1,4 +1,4 @@
-let averagegrade = 85
+let averageGrade = 85
 if (averagegrade < 60) { console.log("Bed"); }
 
 else if (averagegrade > 60 && averagegrade <= 70) { console.log("Not bed"); }
