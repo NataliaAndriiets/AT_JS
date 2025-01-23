@@ -2,14 +2,21 @@
 
 //1) for
 
-for (let i = 0; i <= 10; i++) { console.log(i * 7) }
+//let number = 7;
+
+//for (let i = 0; i <= 10; i++) {
+    //console.log(`${ number } * ${ i } = ${ number * i}`);
+//}
 
 //2) while
 
-let count = 0;
-while (count <= 10) { 
-    console.log(count*7);
-    count++
+let count = 7;
+let i = 0;
+
+while (i<= 10) {
+    console.log(`${count} * ${i} = ${count * i}`);
+    i++;
+  
 }
 
 
