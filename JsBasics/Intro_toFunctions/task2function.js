@@ -10,7 +10,7 @@ function verifyAge(age, over) {
         return True;
     }
     else if (age < 18) {
-        console.log("False");
+        return False
     }
 
 }
