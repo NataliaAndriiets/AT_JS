@@ -6,7 +6,7 @@ const book = {
     year: 2004
 
 }
-const { title, author, year } = book;
+const { title, author} = book;
 
 console.log(title);
 console.log(author);
