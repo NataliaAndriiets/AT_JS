@@ -7,9 +7,7 @@ const users = [
 ];
 
 for (const user of users) {
+    let [user1, user2] = users;
     console.log(user);
 }
-
-let [user1, user2] = users;
-console.log(user1);
 
